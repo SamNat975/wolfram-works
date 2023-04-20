@@ -12,6 +12,11 @@ DNA is well-known as the “code of life” in all living organisms. It’s a ge
 
 Link: https://community.wolfram.com/groups/-/m/t/2546972
 
+### Implementing Counter Machines 
+The objective of this project was to implement counter machines in the Wolfram Language and establish which counter machine was the most unpredictable. I designed a general counter machine function and used this function to demonstrate 5 types of counter machines. Finally, I determined which counter machines were unpredictable and explored complexity by adding more registers.
+
+Link: https://community.wolfram.com/groups/-/m/t/2317490
+
 ### Expressing a Mathematical Equation as Music
 I first considered the connection between math and music when I was listening to the song “No Money” by Galantis. It’s a fascinating song with many different instruments and a touch of something electronic as well, and I was curious if I could somehow represent the song in a different way. Being a mathematician, I naturally tried to use equations and expressions to represent the song, and so began my journey in the realm of mathematical music. Mathematical music is a broad term and has varying meanings to people. It’s most commonly viewed as the math behind frequency, pitch, rhythm, and other facets of music, such as how chords of prime numbers (2nd, 3rd, 5th, and 7th) sound instinctively right for musicians. However, I was interested in something different: what mathematical equation represents the melody of a song? If I had an equation, could I turn that into a piece of music?
 
@@ -21,8 +26,3 @@ Link: https://community.wolfram.com/groups/-/m/t/2749218
 Within the human body, there are hundreds of trillions of cells, and every cell has hundreds of ion channels in order to transport nutrients and other molecules in and out of the cell. These ion channels are able to function thanks to the ionic currents in cells. However, there are many situations where these ionic channels are disrupted, which can cause major problems in the human body. However, there are certain drugs, such as lidocaine, that have been created to specifically combat these disrupted ionic currents. Our goal in this study was to use mathematical equations to model ion channels and demonstrate the impact of lidocaine in helping those with disrupted ionic currents.
 
 Link: https://community.wolfram.com/groups/-/m/t/2818249
-
-### Implementing Counter Machines 
-The objective of this project was to implement counter machines in the Wolfram Language and establish which counter machine was the most unpredictable. I designed a general counter machine function and used this function to demonstrate 5 types of counter machines. Finally, I determined which counter machines were unpredictable and explored complexity by adding more registers.
-
-Link: https://community.wolfram.com/groups/-/m/t/2317490
